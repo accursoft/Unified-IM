@@ -1,0 +1,8 @@
+syntax: glob
+
+bin
+obj
+*.suo
+Documentation
+Bricksoft
+*.shfbproj_*
