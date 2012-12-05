@@ -5,6 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unified IM", "Unified IM\Un
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{727AE953-0F16-42D7-8743-FB8100CBAC9D}"
 	ProjectSection(SolutionItems) = preProject
+		License.txt = License.txt
 		Sandcastle.shfbproj = Sandcastle.shfbproj
 	EndProjectSection
 EndProject
